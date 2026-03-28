@@ -1,4 +1,4 @@
-# Elevate-labs-Cybersecurity-Task-06
+# Password Creation & Strength Evaluation
 A repository for the task 06 from the Elevate labs, Cybersecurity
 
 # Task 6: Password Creation & Strength Evaluation
